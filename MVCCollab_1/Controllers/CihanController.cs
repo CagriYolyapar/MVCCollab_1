@@ -11,6 +11,7 @@ namespace MVCCollab_1.Controllers
         // GET: Cihan
         public ActionResult Index()
         {
+            //Cagri Yolyapar
             return View();
         }
     }
