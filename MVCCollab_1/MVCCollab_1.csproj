@@ -123,7 +123,7 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\CagriController.cs" />
     <Compile Include="Controllers\CihanController.cs" />
-    <Compile Include="Controllers\GüvenController.cs" />
+    <Compile Include="Controllers\GuvenController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
