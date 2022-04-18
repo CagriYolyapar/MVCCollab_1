@@ -174,7 +174,6 @@
     <Folder Include="Views\Cagri\" />
     <Folder Include="Views\Cihan\" />
     <Folder Include="Views\Guven\" />
-    <Folder Include="Views\Güven\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
