@@ -6,9 +6,9 @@ using System.Web.Mvc;
 
 namespace MVCCollab_1.Controllers
 {
-    public class GüvenController : Controller
+    public class GuvenController : Controller
     {
-        // GET: Güven
+        // GET: Guven
         public ActionResult Index()
         {
             return View();
