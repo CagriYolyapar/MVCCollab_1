@@ -121,6 +121,7 @@
     <Compile Include="App_Start\BundleConfig2.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\CagriController.cs" />
     <Compile Include="Controllers\CihanController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Global.asax.cs">
@@ -169,6 +170,7 @@
     <Folder Include="App_Data\" />
     <Folder Include="Data\" />
     <Folder Include="Models\" />
+    <Folder Include="Views\Cagri\" />
     <Folder Include="Views\Cihan\" />
   </ItemGroup>
   <ItemGroup>
